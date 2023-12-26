@@ -39,12 +39,13 @@ header{
     position: relative;
     margin: 1rem;
     margin-bottom: 0mm;
+    border-radius: 1rem;
 }
 .intro .quote{
     color:  rgb(48, 10, 10);
     font-size: 3.2rem;
     position: absolute;
-    left: 350px;
+    left: 550px;
     top: 350px;
     /* text-shadow: white 0rem 0rem 1rem; */
     /* -webkit-text-stroke: 1px darkgray; */
@@ -162,6 +163,7 @@ iframe{
 }
 .toxicArt img, .toxicArt p{
     margin: 1rem .5rem;
+    border-radius: 1rem;
 }
 /* END FLEX STUFF */
 .album>:first-child{
