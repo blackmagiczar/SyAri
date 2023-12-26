@@ -19,7 +19,7 @@ a{
     align-items: center;
 }
 nav a:hover{
-    background-color: rgb(225, 238, 211);
+    background-color: greenyellow;
 }
 .socials{
     display: flex;
