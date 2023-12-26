@@ -18,6 +18,9 @@ a{
     display: flex;
     align-items: center;
 }
+a:hover{
+    background-color: rgb(225, 238, 211);
+}
 .socials{
     display: flex;
 }
